@@ -1,4 +1,4 @@
-program ulastoken.aleo {
+program ulastokenworkshop.aleo {
     mapping account: address => u64;
 
     record token {
